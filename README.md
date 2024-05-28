@@ -1,4 +1,4 @@
-Multirelational Twitter Bot Detection using Graph Neural Networks
+**Multirelational Twitter Bot Detection using Graph Neural Networks**
 
 NOTE: This code has been developed using the code from https://github.com/LuoUndergradXJTU/TwiBot-22/tree/master/src/Wei as base
 
